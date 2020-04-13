@@ -16,12 +16,12 @@
 
         <TextView
             android:id="@+id/textGrid"
-            android:text="GRID LAYOUT"
-            android:textSize="34sp"
-            android:textColor="#000"
-            android:layout_centerInParent="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="রমাদান"
+            android:textColor="#FFFFFF"
+            android:textSize="48sp" />
 
     </RelativeLayout>
 
@@ -67,7 +67,7 @@
 
                 <TextView
                     android:textAlignment="center"
-                    android:text="Text"
+                    android:text="নামায"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -106,7 +106,7 @@
 
                 <TextView
                     android:textAlignment="center"
-                    android:text="Text2"
+                    android:text="রোযা"
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textStyle="bold"
@@ -147,13 +147,13 @@
                     android:layout_height="wrap_content" />
 
                 <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="আমলসমূহ"
                     android:textAlignment="center"
-                    android:text="Text3"
                     android:textColor="#000"
                     android:textSize="18sp"
-                    android:textStyle="bold"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:textStyle="bold" />
 
             </LinearLayout>
 
@@ -186,13 +186,13 @@
                     android:layout_height="wrap_content" />
 
                 <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="কিবলা"
                     android:textAlignment="center"
-                    android:text="Text4"
                     android:textColor="#000"
                     android:textSize="18sp"
-                    android:textStyle="bold"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:textStyle="bold" />
 
             </LinearLayout>
 
@@ -227,13 +227,13 @@
                     android:layout_height="wrap_content" />
 
                 <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ইসলামের স্তম্ভসমূহ"
                     android:textAlignment="center"
-                    android:text="Text"
                     android:textColor="#000"
                     android:textSize="18sp"
-                    android:textStyle="bold"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:textStyle="bold" />
 
             </LinearLayout>
 
@@ -266,13 +266,13 @@
                     android:layout_height="wrap_content" />
 
                 <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="কোরআন ও হাদিস থেকে"
                     android:textAlignment="center"
-                    android:text="Text2"
                     android:textColor="#000"
                     android:textSize="18sp"
-                    android:textStyle="bold"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:textStyle="bold" />
 
             </LinearLayout>
 
